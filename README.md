@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes electric vehicle (EV) population data in Washington State to understand EV adoption trends, model popularity, range efficiency, and environmental impact. Using a dataset from [Data.gov](https://data.gov), we explore which EV models dominate the market, their performance characteristics, and how geographic and manufacturer factors play a role in EV adoption.
 
-📄 **[View Full Project Report (PDF)](./Washington-State-Electric-Vehicle-Data-Analysis.pdf)**
+📄 **[View Full Project Report (PDF)](./Washington State Electric Vehicle Data Analysis.pdf)**
 
 ---
 
